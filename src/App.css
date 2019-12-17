@@ -1,0 +1,6 @@
+
+.container{
+    border: 5px solid blue;
+    background-image: url(../src/1.jpg);
+    color: black;
+}
