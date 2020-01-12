@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/artronix/static/css/main.a46fa128.chunk.css",
-    "main.js": "/artronix/static/js/main.91c6b1c8.chunk.js",
-    "main.js.map": "/artronix/static/js/main.91c6b1c8.chunk.js.map",
+    "main.js": "/artronix/static/js/main.3cc2c997.chunk.js",
+    "main.js.map": "/artronix/static/js/main.3cc2c997.chunk.js.map",
     "runtime-main.js": "/artronix/static/js/runtime-main.9e8fe296.js",
     "runtime-main.js.map": "/artronix/static/js/runtime-main.9e8fe296.js.map",
     "static/css/2.1c29a7ee.chunk.css": "/artronix/static/css/2.1c29a7ee.chunk.css",
     "static/js/2.7a25b23e.chunk.js": "/artronix/static/js/2.7a25b23e.chunk.js",
     "static/js/2.7a25b23e.chunk.js.map": "/artronix/static/js/2.7a25b23e.chunk.js.map",
     "index.html": "/artronix/index.html",
-    "precache-manifest.a81834f8a9af3afb4d0fa49af1725679.js": "/artronix/precache-manifest.a81834f8a9af3afb4d0fa49af1725679.js",
+    "precache-manifest.d146cb24baea95dc43ca7db78a0e8f90.js": "/artronix/precache-manifest.d146cb24baea95dc43ca7db78a0e8f90.js",
     "service-worker.js": "/artronix/service-worker.js",
     "static/css/2.1c29a7ee.chunk.css.map": "/artronix/static/css/2.1c29a7ee.chunk.css.map",
     "static/css/main.a46fa128.chunk.css.map": "/artronix/static/css/main.a46fa128.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1c29a7ee.chunk.css",
     "static/js/2.7a25b23e.chunk.js",
     "static/css/main.a46fa128.chunk.css",
-    "static/js/main.91c6b1c8.chunk.js"
+    "static/js/main.3cc2c997.chunk.js"
   ]
 }
