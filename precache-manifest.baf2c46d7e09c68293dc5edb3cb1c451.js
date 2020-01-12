@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "141fd069d8abd9a17f6eae42f9f9f916",
+    "revision": "7b5563abb6109774250788bd9eb09bb2",
     "url": "/artronix/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artronix/static/css/2.1c29a7ee.chunk.css"
   },
   {
-    "revision": "5ea8e9da0dc447a6156f",
+    "revision": "f5b2f3252c6e79b32798",
     "url": "/artronix/static/css/main.a46fa128.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artronix/static/js/2.7a25b23e.chunk.js"
   },
   {
-    "revision": "5ea8e9da0dc447a6156f",
-    "url": "/artronix/static/js/main.3cc2c997.chunk.js"
+    "revision": "f5b2f3252c6e79b32798",
+    "url": "/artronix/static/js/main.144058ab.chunk.js"
   },
   {
     "revision": "72c3314405a2d6fde3d2",

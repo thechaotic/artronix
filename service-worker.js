@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/artronix/precache-manifest.d146cb24baea95dc43ca7db78a0e8f90.js"
+  "/artronix/precache-manifest.baf2c46d7e09c68293dc5edb3cb1c451.js"
 );
 
 self.addEventListener('message', (event) => {
